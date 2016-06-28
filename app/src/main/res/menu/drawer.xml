@@ -21,4 +21,51 @@
             android:icon="@drawable/ic_favorite"
             android:title="@string/navigation_about" />
     </group>
+
+    <item android:title="Sub items">
+        <menu>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/ic_favorite"
+                android:title="Sub item 2"/>
+        </menu>
+    </item>
 </menu>
